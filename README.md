@@ -1,0 +1,2 @@
+# coghingconfig
+これは老舗
