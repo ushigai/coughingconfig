@@ -1,0 +1,160 @@
+{
+    "editor.formatOnType": true,
+    "emmet.triggerExpansionOnTab": true,
+    "workbench.editor.enablePreview": false,
+    "editor.tabSize": 4,
+    "editor.minimap.enabled": false,
+    "editor.hover.enabled": false,
+    "editor.trimAutoWhitespace": false,
+    "window.zoomLevel": 3,
+    //"C_Cpp.updateChannel": "Insiders",
+    //"python.pythonPath": "C:\\Users\\hoge\\huga\\piyo\\Programs\\Python\\Python37\\python.exe",
+    "vsicons.dontShowNewVersionMessage": true,
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook",
+        "*.sqlite3": "default"
+    },
+    "editor.lineNumbers": "relative",
+    "python.autoComplete.extraPaths": [
+    
+    ],
+    "C_Cpp.clang_format_style": "{BasedOnStyle: Google, Indentwidth: 4}",
+    "python.linting.enabled": false,
+    "settingsSync.ignoredExtensions": [],
+    "jupyter.interactiveWindowMode": "perFile",
+    "workbench.iconTheme": "material-icon-theme",
+    //"cmake.configureOnOpen": true,
+    "C_Cpp.default.enableConfigurationSquiggles": false,
+    "C_Cpp.errorSquiggles": "Disabled",
+    "tabnine.experimentalAutoImports": true,
+    "explorer.confirmDelete": false,
+    "python.linting.lintOnSave": false,
+    "python.testing.autoTestDiscoverOnSaveEnabled": false,
+    "python.linting.pylintCategorySeverity.refactor": "Error",
+    "python.experiments.enabled": false,
+    "python.linting.pylintEnabled": false,
+    "python.linting.pylintUseMinimalCheckers": false,
+    "python.autoUpdateLanguageServer": false,
+    "python.autoComplete.showAdvancedMembers": false,
+    "python.linting.pylintCategorySeverity.warning": "Error",
+    "python.showStartPage": false,
+    "python.terminal.executeInFileDir": true,
+    // ---------- LaTeX Workshop ----------
+    // 使用パッケージのコマンドや環境の補完を有効にする
+    "latex-workshop.intellisense.package.enabled": true,
+    // 生成ファイルを削除するときに対象とするファイル
+    // デフォルト値に "*.synctex.gz" を追加
+    "latex-workshop.latex.clean.fileTypes": [
+        "*.aux",
+        "*.bbl",
+        "*.blg",
+        "*.idx",
+        "*.ind",
+        "*.lof",
+        "*.lot",
+        "*.out",
+        "*.toc",
+        "*.acn",
+        "*.acr",
+        "*.alg",
+        "*.glg",
+        "*.glo",
+        "*.gls",
+        "*.ist",
+        "*.fls",
+        "*.log",
+        "*.fdb_latexmk",
+        "*.snm",
+        "*.nav",
+        "*.dvi",
+        "*.synctex.gz"
+    ],
+    // 生成ファイルを "out" ディレクトリに吐き出す
+    "latex-workshop.latex.outDir": "out",
+    // ビルドのレシピ
+    "latex-workshop.latex.recipes": [
+        {
+            "name": "latexmk",
+            "tools": [
+                "latexmk"
+            ]
+        },
+    ],
+    // ビルドのレシピに使われるパーツ
+    "latex-workshop.latex.tools": [
+        {
+            "name": "latexmk",
+            "command": "latexmk",
+            "args": [
+                "-silent",
+                "-outdir=%OUTDIR%",
+                "%DOC%"
+            ],
+        },
+    ],
+    "latex-workshop.view.pdf.viewer": "tab",
+    "workbench.colorTheme": "Noctis Hibernus",
+    "python.analysis.extraPaths": [],
+    "python.linting.pylintCategorySeverity.convention": "Error",
+    "python.linting.pycodestyleCategorySeverity.W": "Error",
+    "python.linting.mypyCategorySeverity.note": "Error",
+    "python.linting.flake8CategorySeverity.W": "Error",
+    "python.languageServer": "None",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "java.project.importHint": false,
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "remote.SSH.remotePlatform": {
+        "192.168.56.10": "linux",
+        "192.168.56.103": "linux",
+        "192.168.56.102": "linux",
+        "192.168.41.3": "linux",
+        "192.168.50.31": "linux",
+        "192.168.56.7": "linux",
+        "172.24.20.45": "linux"
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "git.suggestSmartCommit": false,
+    "editor.definitionLinkOpensInPeek": true,
+    "editor.mouseWheelZoom": true,
+    "workbench.startupEditor": "none",
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "background.customImages":[
+    //"file:///E:/hoge/huga/piyo/logo1.png",
+    //"file:///E:/hoge/huga/piyo/logo1.png",
+    //"file:///E:/hoge/huga/piyo/logo1.png",
+    "https://user-images.githubusercontent.com/18376480/55394572-30827700-5572-11e9-9435-2cc501eb53bb.png"
+    ],
+    "background.style": {
+        "content": "''",
+        "pointer-events": "none",
+        "position": "absolute",
+        "right": "0%",
+        "bottom": "0%",
+        "width": "51%",
+        "height": "50%",
+        "z-index": "9999",
+        "background-size": "contain",
+        "opacity": 0.3,
+    },
+    "background.useDefault": false,
+    "background.loop": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    //"python.defaultInterpreterPath": "",
+    "files.associations": {
+        "*.sage": "python"
+    },
+    "editor.largeFileOptimizations": false,
+    "latex-workshop.intellisense.commandsJSON.replace": {},
+    "workbench.editor.wrapTabs": true,
+    "editor.guides.indentation": true,
+    "markdown.marp.enableHtml": true,
+}

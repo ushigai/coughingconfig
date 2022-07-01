@@ -1,2 +1,2 @@
-# coghingconfig
+# coughingconfig
 これは老舗
