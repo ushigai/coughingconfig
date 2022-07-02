@@ -1,2 +1,2 @@
 # coughingconfig
-これは老舗
+オレオレdotfiles
